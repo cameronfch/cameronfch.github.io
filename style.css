@@ -1,1 +1,22 @@
-h1{color:bisque}
+#a{background-color: rgb(0, 255, 255)}
+#s{background-color:rgb(255, 204, 255)}
+#w{background-color: rgb(179, 255, 179)}
+#a {font: oblique bold 120% cursive;}
+#s{ font-family: fantasy;}
+#w {font: small-caps 100%/200% serif;}
+
+
+ li #s{text-align: center}
+ h1{text-align: center }
+
+
+.boton:link {
+  color: red;
+}
+
+.boton:visited {color: rgb(255, 99, 71, 1);}
+
+
+.boton:hover {
+  color:rgb(255, 255, 71);
+}
